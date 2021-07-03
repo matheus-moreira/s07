@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://apolocabeleireiros.com.br/sitemap.xml
